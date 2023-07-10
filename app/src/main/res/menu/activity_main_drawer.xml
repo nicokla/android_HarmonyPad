@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/piano"
+            android:title="Piano" />
+        <item
+            android:id="@+id/chords"
+            android:title="Chords" />
+        <!--android:icon="@drawable/ic_menu_slideshow"-->
+        <item
+            android:id="@+id/pianoAndChords"
+            android:title="Piano and Chords" />
+
+        <!--
+        <item
+            android:id="@+id/nav_send"
+            android:title="Non defini" />-->
+
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="single">
+        <item
+            android:id="@+id/settings"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"/>
+        <item
+            android:id="@+id/editChords"
+            android:title="Edit Chords"/>
+
+    </group>
+
+
+    <!--<item android:title="Communicate">
+        <menu>
+        </menu>
+    </item>-->
+
+    <!--
+    <item
+        android:id="@+id/nav_share"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/nav_send"
+        android:title="Send" />
+    -->
+
+    <!--android:icon="@drawable/ic_menu_share"-->
+    <!--android:icon="@drawable/ic_menu_send"-->
+
+</menu>

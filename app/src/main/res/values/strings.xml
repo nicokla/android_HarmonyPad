@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Harmony Pad (Free Edition)</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="b11">F</string>
+    <string name="b12">C</string>
+    <string name="b13">G</string>
+
+    <string name="b21">Dm</string>
+    <string name="b22">Am</string>
+    <string name="b23">Em</string>
+
+    <string name="b31">D</string>
+    <string name="b32">Bo</string>
+    <string name="b33">E</string>
+
+    <string name="b41">FΔ</string>
+    <string name="b42">CΔ</string>
+    <string name="b43">G7</string>
+
+    <string name="b51">Dm7</string>
+    <string name="b52">Am7</string>
+    <string name="b53">Em7</string>
+
+    <string name="b61">D7</string>
+    <string name="b62">Bo7</string>
+    <string name="b63">E7</string>
+
+    <string name="b71">←</string>
+    <string name="b72"></string>
+    <string name="b73">→</string>
+
+    <string name="bGrave">-12</string>
+    <string name="bAigu">+12</string>
+
+    <string name="b82">Acoustic Grand Piano</string>
+    <string name="hint1">Copy/paste chords</string>
+    <string name="b91">Edit chords</string>
+
+    <string name="bMaj">Maj</string>
+    <string name="bMin">Min</string>
+    <string name="bMinH">Min H</string>
+    <string name="bMinD">Min D</string>
+    <string name="bPentaMaj">Penta Maj</string>
+    <string name="bPentaMin">Penta Min</string>
+
+    <string-array name="scales_names">
+        <item>All</item>
+        <item>All, colored</item>
+        <item>All, from major</item>
+        <item>All, from minor</item>
+        <item>Major</item>
+        <item>Minor All</item>
+        <item>Minor Natural</item>
+        <item>Minor Harmonic</item>
+        <item>Minor Dorian</item>
+        <item>Minor Phrygian</item>
+        <item>Penta Major</item>
+        <item>Penta Minor</item>
+        <item>Blues</item>
+        <item>Whole Tone</item>
+        <item>Bebop Dominant</item>
+        <item>Altered</item>
+        <item>Diminished 1</item>
+        <item>Diminished 2</item>
+    </string-array>
+
+    <string-array name="array2">
+        <item>Major</item>
+        <item>Minor</item>
+        <item>Minor Dor</item>
+        <item>Minor Phr</item>
+    </string-array>
+    <string-array name="array3">
+        <item>Normal</item>
+        <item>Fifth special</item>
+        <item>Fifth</item>
+        <item>Third</item>
+    </string-array>
+
+    <string name="b_scaleName">0 (C, Am)</string>
+
+</resources>
